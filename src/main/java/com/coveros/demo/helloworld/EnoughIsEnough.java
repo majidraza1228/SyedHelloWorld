@@ -8,6 +8,7 @@ public class EnoughIsEnough {
         int occurCount =1;
         int[] k={elements.length};
 
+
         for ( int i=0; i< elements.length-1;i++){
             if ( elements[i] != elements[index+1]) {
                   k[i]=elements[i];
@@ -30,13 +31,15 @@ public class EnoughIsEnough {
     public   static void main (String  args[]) {
 
         EnoughIsEnough objClass = new EnoughIsEnough();
-
+/*
         int a[] ={1,1,2,2,3,4};
         int c[] = objClass.deleteNth(a,2);
 
         for ( int j =0; j<c.length-1;j++){
             System.out.println(c[j]);
         }
+
+ */
     }
 
 }
