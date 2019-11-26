@@ -1,0 +1,5 @@
+package com.coveros.demo.helloworld;
+
+public class ToString {
+    public static final String a = String.valueOf(123);
+}
