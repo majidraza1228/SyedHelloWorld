@@ -45,3 +45,21 @@ b.     http://robertgreiner.com/2014/08/cap-theorem-revisited/
 1.     Google Big Table: https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
 2.     Map Reduce: https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf
  
+My Learning - System Design
+==========================
+
+https://www.youtube.com/watch?v=As2gOXtcPVQ
+
+https://tianpan.co/blog/2016/02/14/crack-the-system-design-interview/
+
+https://www.youtube.com/watch?v=UzLMhqg3_Wc&feature=youtu.be
+
+https://engineering.videoblocks.com/web-architecture-101-a3224e126947
+
+https://www.upwork.com/hiring/development/a-beginners-guide-to-back-end-development/
+
+https://www.youtube.com/watch?v=-W9F__D3oY4
+
+
+https://www.lecloud.net/search/scalability
+
