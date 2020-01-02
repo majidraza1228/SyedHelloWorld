@@ -76,11 +76,40 @@ How to address a problem - communication, boundary assumptions, edge cases, opti
 Standard Code Style - indents, comments, loops and conditional statements.
 Code Test on Whiteboard
 
+What is a Palindrome:
+ https://www.youtube.com/watch?v=FIvONwfz9Rw
+Subsets of a set:
+ https://www.youtube.com/watch?v=s8FGAclojcs
+Basic probability:
+ https://www.youtube.com/watch?v=Y8EOkJ75elM 
+Sum of first N natural numbers:
+ https://www.youtube.com/watch?v=aaFrAFZATKU
+Slope of a line and derivative:
+ https://www.youtube.com/watch?v=ANyVpMS3HL4
+Distance Formula: h
+ttps://www.youtube.com/watch?v=0IOEPcAHgi4
+Prime numbers: 
+https://www.youtube.com/watch?v=mIStB5X4U8M 
+Pigeonhole principle:
+ https://www.youtube.com/watch?v=ROnetLvbl6M
+LCM and GCD: 
+https://www.youtube.com/watch?v=PKjS17xVPow
+Inclusion Exclusion principle:
+ https://www.youtube.com/watch?v=B8mOws755Bs
+Decimal and Binary:
+ https://www.youtube.com/watch?v=CiJkiZJOJCk
+Hexadecimal: 
+https://www.youtube.com/watch?v=4EJay-6Bioo
+Solving a quadratic equation: 
+https://www.youtube.com/watch?v=3ayhvAI3IeY
+Mean, Median, Mode:
+ https://www.youtube.com/watch?v=k3aKKasOmIw
 
 
 Action Item 2 (Java)
 ===================
-
+https://www.youtube.com/playlist?list=PLB841C370FAFB8EC7
+ 
 
 
 Action Item 3 (Arrays)
@@ -167,6 +196,8 @@ Bit Manipulation
 Bit Questions List
 Bit Map
 
+
+https://www.youtube.com/playlist?list=PLEH2kL-crMGGscSUfl1-oh_ylXPIpiMCn 
 
 
 Action Item 10 (LinkedList)
