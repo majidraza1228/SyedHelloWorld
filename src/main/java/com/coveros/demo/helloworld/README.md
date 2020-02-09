@@ -305,3 +305,7 @@ LeetCode Question from  top companies  ( FAANG )
 
 Coding Enhancement
 
+=========================================================================
+
+Backtracking :
+https://leetcode.com/problems/subsets/discuss/27281/A-general-approach-to-backtracking-questions-in-Java-%28Subsets-Permutations-Combination-Sum-Palindrome-Partitioning%29
