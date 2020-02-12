@@ -309,3 +309,11 @@ Coding Enhancement
 
 Backtracking :
 https://leetcode.com/problems/subsets/discuss/27281/A-general-approach-to-backtracking-questions-in-Java-%28Subsets-Permutations-Combination-Sum-Palindrome-Partitioning%29
+
+Study Guide :
+https://leetcode.com/discuss/interview-experience/504928/nda-facebook-m1-menlo-park-jan-2020
+
+Facebook :
+https://leetcode.com/discuss/interview-experience/504928/nda-facebook-m1-menlo-park-jan-2020
+
+
