@@ -317,7 +317,11 @@ Facebook :
 https://leetcode.com/discuss/interview-experience/504928/nda-facebook-m1-menlo-park-jan-2020
 
 
-=============================================================================================================================
+**************************************************************************
+
+Leet Code Algorihm problems from each section
+
+
 Array
 
 - Two Sum - https://leetcode.com/problems/two-sum/
@@ -440,9 +444,7 @@ Heap
 
 - Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
-- Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
-
-==============================================================================================================================
+- Find Median from Data Stream - https://leetcode.com/problems/find-med
 Leetcode : Alogrithms ( Example from each Alogrithms section)
 
 Array
@@ -571,4 +573,4 @@ Heap
 
 More detail:  https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
-
+*******************************************************************************************
