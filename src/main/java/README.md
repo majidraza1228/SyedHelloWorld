@@ -319,7 +319,7 @@ https://leetcode.com/discuss/interview-experience/504928/nda-facebook-m1-menlo-p
 
 **************************************************************************
 
-Leet Code Algorihm problems from each section
+Leet Code Algorithms  problems from each category
 
 
 Array
