@@ -1,0 +1,2 @@
+public class TeachJava2 {
+}
