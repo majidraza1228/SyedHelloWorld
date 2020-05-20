@@ -63,23 +63,8 @@ https://www.youtube.com/watch?v=-W9F__D3oY4
 
 https://www.lecloud.net/search/scalability
 
+https://gist.github.com/vasanthk/485d1c25737e8e72759f
 
-(235) Episode 06: (No background music) Intro to Architecture and Systems Design Interviews - YouTube
-
-(235) System Design Introduction For Interview. - YouTube
-Web Architecture 101 - Storyblocks Product & Engineering
-(235) CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan - YouTube
-Le Cloud Blog
-TechInterviewBook
-system-design-primer/solutions/system_design at master · donnemartin/system-design-primer
-checkcheckzz/system-design-interview: System design interview for IT companies
-donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-Grokking the System Design Interview - Learn Interactively
-High Scalability -
-The Amazon Builders' Library
-Crack the System Design Interview - TianPan.co
-Hacking the Software Engineer Interview - TianPan.co
-chanakaudaya/solutions-architecture-patterns: This repository contains solutions architecture patterns which can be reused to build enterprise software systems
 
 =========================
 
