@@ -73,7 +73,6 @@ http://highscalability.com/
 
 https://www.educative.io/courses/grokking-the-system-design-interview
 
-https://github.com/checkcheckzz/system-design-interview
 =========================
 
 Program 1: Algorithm + Coding
