@@ -65,10 +65,20 @@ https://www.lecloud.net/search/scalability
 
 https://gist.github.com/vasanthk/485d1c25737e8e72759f
 
+https://github.com/chanakaudaya/solutions-architecture-patterns
 
+https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc
+
+http://highscalability.com/
+
+https://www.educative.io/courses/grokking-the-system-design-interview
+
+https://github.com/checkcheckzz/system-design-interview
 =========================
 
 Program 1: Algorithm + Coding
+
+Must know  code pattern : https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
 
 Action Item 1
 ============
