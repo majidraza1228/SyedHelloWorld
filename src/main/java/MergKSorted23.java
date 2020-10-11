@@ -44,8 +44,8 @@ public class MergKSorted23 {
 /*
  * Definition for singly-linked list.
  */
-class ListNode {
+ class ListNode {
      int val;
      ListNode next;
-    ListNode(int x) { val = x; }
+     ListNode(int x) { val = x; }
   }
