@@ -30,7 +30,7 @@ public class DevByte50 {
 
         for ( int i =0 ;i <s.length() - 9;i++){
 
-            String current = s.substring(0,i+10);
+            String current = s.substring(i,i+10);
             if (seen.getOrDefault(current,0) == 1){
                     repeated.add(current);
                     seen.put(current,seen.get(current)+1);
