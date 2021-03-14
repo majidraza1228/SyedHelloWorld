@@ -40,10 +40,11 @@ public class DevByte74 {
 
 
 
-    }
-
     public static void main(String[] args){
 
+        int[] input ={2,7,11,15};
+
+        System.out.println(twoSum(input,9));
 
     }
 }
