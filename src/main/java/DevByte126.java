@@ -1,0 +1,2 @@
+public class DevByte126 {
+}
